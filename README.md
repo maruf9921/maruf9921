@@ -33,10 +33,7 @@ Skills: HTML / CSS / TAILWIND / REACT / FIREBSE / NODE JS / MONGODB / JWT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maruf9921&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maruf9921)  
-
 ![GitHub metrics](https://metrics.lecoq.io/maruf9921)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=maruf9921)  
 
-![Profile views](https://gpvc.arturio.dev/maruf9921)  
